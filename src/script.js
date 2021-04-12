@@ -1,3 +1,5 @@
+import 'regenerator-runtime/runtime'
+
 const videoElement = document.querySelector("#video");
 const button = document.querySelector("#button");
 const buttonToggle = document.querySelector("#button_toggle");

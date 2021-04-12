@@ -1,15 +1,17 @@
 {
-  "name": "picture_in_picture",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "parcel index.html",
-    "build": "parcel build index.html"
-  },
-  "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "parcel-bundler": "^1.12.5"
-  }
+	"name": "picture_in_picture",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "parcel index.html",
+		"build": "parcel build index.html"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@babel/core": "^7.13.15",
+		"@babel/plugin-transform-runtime": "^7.13.15",
+		"parcel-bundler": "^1.12.5"
+	}
 }

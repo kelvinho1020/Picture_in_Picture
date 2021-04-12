@@ -1,4 +1,4 @@
-import 'regenerator-runtime/runtime'
+// import 'regenerator-runtime/runtime'
 
 const videoElement = document.querySelector("#video");
 const button = document.querySelector("#button");

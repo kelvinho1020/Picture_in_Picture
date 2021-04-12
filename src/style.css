@@ -26,8 +26,8 @@ h1 {
 }
 
 .button-container {
-	border: 2px solid black;
-	padding: 10px;
+	border: 2px solid rgb(95, 95, 95);
+	padding: 15px 20px;
 	border-radius: 7px;
 	box-shadow: inset 0 20px 4px -19px rgba(255, 255, 255, 0.7);
 }
@@ -42,7 +42,7 @@ button {
 	color: white;
 	text-shadow: 0 2px 5px black;
 	background: linear-gradient(to top, #696969, #575757);
-	border: 2px solid black;
+	border: 2px solid rgb(75, 75, 75);
 	border-radius: 7px;
 	box-shadow: inset 0 20px 4px -19px rgba(255, 255, 255, 0.4), 0 12px 12px 0 rgba(0, 0, 0, 0.3);
 }
@@ -54,6 +54,10 @@ button:hover {
 button:active {
 	transform: translateY(3px);
 	box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.3);
+}
+
+#video {
+	margin-bottom: 1rem;
 }
 
 .hidden {

@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Barlow:wght@200&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
 
 html {
 	box-sizing: border-box;
@@ -11,7 +11,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
-	font-family: Barlow, sans-serif;
+	font-family: "Press Start 2P", cursive, sans-serif;
 	background-color: #000000;
 	background-color: #707070;
 	background-color: #383838;
@@ -26,7 +26,7 @@ h1 {
 
 .button-container {
 	border: 2px solid rgb(95, 95, 95);
-	padding: 15px 20px;
+	padding: 15px 30px;
 	border-radius: 7px;
 	box-shadow: inset 0 20px 4px -19px rgba(255, 255, 255, 0.7);
 }
@@ -34,10 +34,10 @@ h1 {
 button {
 	cursor: pointer;
 	outline: none;
-	width: 120px;
+	width: 180px;
 	height: 75px;
 	font-family: inherit;
-	font-size: 25px;
+	font-size: 20px;
 	color: white;
 	text-shadow: 0 2px 5px black;
 	background: linear-gradient(to top, #696969, #575757);

@@ -1,8 +1,8 @@
 {
-	"name": "picture_in_picture",
+	"name": "Pomodoro",
 	"version": "1.0.0",
 	"description": "",
-	"main": "index.js",
+	"main": "app.js",
 	"scripts": {
 		"start": "parcel index.html",
 		"build": "parcel build index.html"

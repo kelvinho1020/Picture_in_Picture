@@ -6,3 +6,7 @@ which allows you to watch videos in a floating window, so you can keep an eye on
 https://megapictureinpicture.netlify.app
 
 ![image](https://github.com/kelvinho1020/Picture_in_Picture/blob/master/PIP.gif)
+
+## API
+- Screen Capture API: https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API
+- Picture in Picture API: https://developer.mozilla.org/en-US/docs/Web/API/Picture-in-Picture_API
